@@ -38,14 +38,14 @@ export default function Example() {
             <img src={barrelWhiteFont} alt="white-font" />
 
             <p className="mt-6 text-lg leading-8 text-white">
-              Barrel Springs Bar and Grill in Wisconsin Dells is a local
-              favorite, known for its casual atmosphere and focus on
-              American-style bar fare made with locally sourced ingredients.
-              It's a popular destination for both locals and visitors to enjoy a
-              refreshing drink and a social environment, making it a great spot
-              for anyone looking to unwind and have fun. The bar's emphasis on
-              community creates a welcoming space to gather with friends or meet
-              new people.
+              Barrel Springs Bar & Grill in Wisconsin Dells is a local favorite,
+              known for its casual atmosphere and focus on American-style bar
+              fare made with locally sourced ingredients. It's a popular
+              destination for both locals and visitors to enjoy a refreshing
+              drink and a social environment, making it a great spot for anyone
+              looking to unwind and have fun. The bar's emphasis on community
+              creates a welcoming space to gather with friends or meet new
+              people.
             </p>
 
             <div className="mt-20 flex items-center justify-center gap-x-6">
