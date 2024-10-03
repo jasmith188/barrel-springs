@@ -45,7 +45,7 @@ export default function Example() {
               drink and a social environment, making it a great spot for anyone
               looking to unwind and have fun. The bar's emphasis on community
               creates a welcoming space to gather with friends or meet new
-              people.
+              people..
             </p>
 
             <div className="mt-20 flex items-center justify-center gap-x-6">
