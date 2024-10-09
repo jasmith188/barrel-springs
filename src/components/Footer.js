@@ -17,7 +17,9 @@ const Footer = () => {
           <h3 className="text-white text-lg font-semibold mb-4">Quick Links</h3>
           <ul>
             <li className="mb-2">
-              <a href="#menu" className="text-gray-400 hover:text-white">
+              <a
+                href="https://acrobat.adobe.com/id/urn:aaid:sc:US:7853c796-ff9d-46a5-976c-c7d4d0f0fa08"
+                className="text-gray-400 hover:text-white no-underline">
                 Menu
               </a>
             </li>
