@@ -10,26 +10,26 @@ const Footer = () => {
           <p className="text-gray-400">
             <div className="flex space-x-4 mb-4 justify-content-center md:mb-0">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/profile.php?id=61561226016907"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <a
+              {/* <a
                 href="https://instagram.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white">
                 <i className="fab fa-instagram"></i>
-              </a>
-              <a
+              </a> */}
+              {/* <a
                 href="https://twitter.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white">
                 <i className="fab fa-twitter"></i>
-              </a>
+              </a> */}
             </div>
           </p>
         </div>
@@ -64,7 +64,7 @@ const Footer = () => {
         <div>
           <h3 className="text-white text-lg font-semibold mb-4">Contact Us</h3>
           <p className="text-gray-400">999 Highway 82 Wisconsin Dells, WI</p>
-          <a className="no-underline " href="tel:+6082536888">
+          <a className="no-underline " href="tel:+16082536888">
             <p className="text-gray-400 hover:text-white">(608) 253-6888</p>
           </a>
           <a className="no-underline" href="mailto:barrelspringsbg@gmail.com">
