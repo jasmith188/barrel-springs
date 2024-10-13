@@ -52,7 +52,12 @@ export default function Example() {
               <a
                 href="https://acrobat.adobe.com/id/urn:aaid:sc:US:7853c796-ff9d-46a5-976c-c7d4d0f0fa08"
                 className="no-underline rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
-                View Menu
+                View Dinner Menu
+              </a>
+              <a
+                href="https://acrobat.adobe.com/id/urn:aaid:sc:US:59c90e72-1771-4709-97f8-042cdd9fdbe6"
+                className="no-underline rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+                View Breakfast Menu
               </a>
             </div>
           </div>
