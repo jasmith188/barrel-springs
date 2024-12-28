@@ -1,23 +1,8 @@
 'use client';
 
-import { useState } from 'react';
-import { Dialog, DialogPanel } from '@headlessui/react';
-// import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-// import barrelMenu from '../images/barrel-menu.png';
-import barrelLogo from '../images/BS Logo.png';
 import barrelWhiteFont from '../images/Barrel Springs-full design_font only white.png';
 
-const navigation = [
-  { name: 'Home', href: '#' },
-  { name: 'Menu', href: '#' },
-  { name: 'About', href: '#' },
-
-  //   { name: 'Company', href: '#' },
-];
-
 export default function Example() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-
   return (
     <div className="bg-black">
       <div className="relative isolate px-6 pt-14 lg:px-8">
